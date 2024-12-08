@@ -1,5 +1,5 @@
 # Attendance_Monitoring_System
-![image](https://github.com/user-attachments/assets/47faa43d-18a1-44d1-8264-595621ddc633)
+![image](https://github.com/user-attachments/assets/72429033-a4bf-4123-8092-c838d45bb4b1)
 
 ```sh
 git clone https://github.com/FoowsIsBack/Attendance_Monitoring_System.git
