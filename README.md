@@ -11,4 +11,4 @@ python3 Attendance.py
 ```sh
 Username: admin
 Password: foows
-~~~
+```
