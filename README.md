@@ -6,3 +6,9 @@ git clone https://github.com/FoowsIsBack/Attendance_Monitoring_System.git
 cd Attendance_Monitoring_System
 python3 Attendance.py
 ```
+
+# Login
+```sh
+Username: admin
+Password: foows
+~~~
